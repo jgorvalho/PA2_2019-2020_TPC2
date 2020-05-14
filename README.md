@@ -20,6 +20,8 @@ Questões e respostas (devidamente fundamentadas com comentários) no Jupyter No
 C – 9 valores
 Visualização de Dados …
 
+VER DOCUMENTO PA2_2019-2020_TPC2_v2
+
 ----------------------------------------
 Alguns exemplos de repositórios públicos de dados
 
